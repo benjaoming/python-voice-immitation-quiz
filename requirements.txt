@@ -1,0 +1,3 @@
+matplotlib  # get from ubuntu
+numpy  # get from ubuntu
+pyaudio  # get from ubuntu
